@@ -1,0 +1,28 @@
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\bin\Debug\Kantin SKENSA.exe
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\bin\Debug\Kantin SKENSA.pdb
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\bin\Debug\Kantin SKENSA.xml
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.Form1.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.MenuUtama.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.Resources.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin SKENSA.vbproj.GenerateResource.Cache
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin SKENSA.exe
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin SKENSA.xml
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin SKENSA.pdb
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.ManageUSER.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.ManageKasir.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.Keranjang.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.produk.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.ProdukAdmin.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.loginKASIR.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.GantiPassword.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.LoginUSER.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.MyProfile.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.PesananPembeli.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.Form2.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.Status_Pesanan_Pembeli.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\obj\x86\Debug\Kantin_SKENSA.LaporanBulanan.resources
+D:\LKS2020\Kantin SKENSA\Kantin SKENSA\bin\Debug\Kantin SKENSA.exe.config
+D:\LKS2020\Kantin SKENSA Fix app\Kantin SKENSA\bin\Debug\Kantin SKENSA.exe.config
+D:\LKS2020\Kantin SKENSA Fix app\Kantin SKENSA\obj\x86\Debug\Kantin SKENSA.exe
+D:\LKS2020\Kantin SKENSA Fix app\Kantin SKENSA\obj\x86\Debug\Kantin SKENSA.xml
+D:\LKS2020\Kantin SKENSA Fix app\Kantin SKENSA\obj\x86\Debug\Kantin SKENSA.pdb
